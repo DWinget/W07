@@ -1,0 +1,7 @@
+/*Created by David Winget (usma94@gmail.com) */
+/*Purpose: The purpose of this style sheet is to provide the style for my guestbook. */
+
+*{background-color:#AFD4F5}
+#Title {color:green;text-align:center}
+#PageError {height:0.1em; color:green;text-align:center}
+.footer {color: green}
